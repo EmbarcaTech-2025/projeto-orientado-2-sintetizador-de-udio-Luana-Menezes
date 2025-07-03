@@ -106,7 +106,7 @@ Develop skills in embedded audio processing and digital signal manipulation. Upo
 
 ## 🖼️ Project Images/Videos
 
-.
+https://github.com/user-attachments/assets/c0d88687-7db2-4d09-adc7-5782bad20bbb
 
 ## Final Reflection
 
