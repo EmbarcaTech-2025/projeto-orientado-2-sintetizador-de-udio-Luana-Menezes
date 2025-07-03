@@ -37,6 +37,7 @@ pico_sdk_init()
 
 add_executable( synth_audio
   main.c
+  ./include/ssd1306_i2c.c
 )
 
 pico_set_program_name(synth_audio "synth_audio")
@@ -63,6 +64,7 @@ target_link_libraries(synth_audio
         hardware_adc
         hardware_dma
         hardware_pwm
+        hardware_i2c
 )
 
 pico_add_extra_outputs(synth_audio)
